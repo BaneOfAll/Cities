@@ -10,5 +10,8 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/HoeenCoder/Cities.git"
-	}
+	},
+	 "scripts": {
+	 "start": "node app.js"
+	 }
 }
